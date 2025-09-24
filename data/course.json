@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering"
+    ]
+  ],
+  "legacy_uid": "8aeb0c77-2c3c-c24b-2d20-9ad9af825260",
+  "instructors": {
+    "content": [
+      "e41a1a01-914b-c516-b0a9-c6f37c039716",
+      "4a965287-02ab-4fbc-c93b-473b155cb313"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a5fc9540-2ee8-5210-4970-9e454e7e5515",
+    "website": "1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009"
+  },
+  "course_title": "The Impact of Globalization on the Built Environment",
+  "course_description": "The course is designed to provide a better understanding of the built environment, globalization, the current financial crisis and the impact of these factors on the rapidly changing and evolving international architecture, engineering, construction fields.\n\nWe will, hopefully, obtain a better understanding of how these forces of globalization and the current financial crisis are having an impact on the built environment and how they will affect firms and your future career opportunities. We will also identify, review and discuss best practices and lessons that can be learned from recent events.\n\nWe will explore the \"international built environment\" in detail, examining how it functions and asking what are the managerial, entrepreneurial and professional opportunities, challenges and risks in it, especially growing crossover and multi-disciplinary opportunities; and we will seek to understand what makes this \"built environment\" so different from other sectors.\n",
+  "department_numbers": [
+    "1",
+    "11",
+    "ESD"
+  ],
+  "extra_course_numbers": "11.342J,ESD.53J",
+  "primary_course_number": "1.463J",
+  "course_image_thumbnail": {
+    "content": "418f60b2-87d0-5a17-690c-4e38180dca5d",
+    "website": "1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "2fec1759-919d-4f6c-9753-5db46cf309bd",
+  "site_short_id": "1.463j-fall-2009",
+  "site_url_path": "courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009",
+  "title": "Course Metadata"
+}
