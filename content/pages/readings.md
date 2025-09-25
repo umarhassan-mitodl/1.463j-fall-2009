@@ -77,9 +77,9 @@ Jacque, Laurent L., and Paul M. Vaaler, eds. _Financial Innovations and the Welf
 {{< tdopen >}}
 
 
-Measuring Productivity and Evaluating Innovation in the U.S. Construction Industry. Building Futures Council whitepaper. Alexandria, VA: Building Futures Council, 2006. ({{% resource_link "d6f27181-72fe-4bc1-83fa-463b476e2334" "PDF" %}})
+Measuring Productivity and Evaluating Innovation in the U.S. Construction Industry. Building Futures Council whitepaper. Alexandria, VA: Building Futures Council, 2006. ([PDF](https://web.archive.org/web/20150209033429/http://www.thebfc.org/uploads/BFC_Productivity_whitepaper.pdf))
 
-{{% resource_link "93ec9b4d-f3de-45e8-9a91-d8a2600fa641" "Greatest Construction Projects: a Look Back at 125 Years of Construction Milestones" %}}. _Engineering News-Record_ (1999): 2-33.
+[Greatest Construction Projects: a Look Back at 125 Years of Construction Milestones](http://enr.construction.com/aboutUs/125enrHistory/125enrhistory.asp). _Engineering News-Record_ (1999): 2-33.
 
 
 {{< tdclose >}}
@@ -149,9 +149,9 @@ Risk management opportunities and parochialism and other barriers to overseas in
 
 Ybarra, Shirley J. "VMS Asset Management Contract for Virginia's Interstate Highways." Public Works Financing (1998): 26-30.
 
-"{{% resource_link "2fa221aa-f107-42f5-9d4f-8d81f6f97d89" "2008 Corruption Perceptions Index" %}}." Transparency International, 2008. (Review the rankings table.)
+"[2008 Corruption Perceptions Index](http://www.icgg.org/corruption.cpi_2008.html)." Transparency International, 2008. (Review the rankings table.)
 
-"{{% resource_link "660fc94a-431a-4187-9cd5-272d9259711d" "Global Competitiveness Report 2009-2010" %}}." World Economic Forum, 2009.
+"[Global Competitiveness Report 2009-2010](http://www.weforum.org/reports/global-competitiveness-report-2009-2010)." World Economic Forum, 2009.
 
 Friedman, Thomas L. _The Lexus and the Olive Tree_. New York, NY: Farrar, Straus, and Giroux, 2000. ISBN: 9780374185527. (Read chapters 17 and 18.)
 
@@ -181,7 +181,7 @@ Project delivery systems
 {{< tdopen >}}
 
 
-King, Ralph, and Charlie McCoy. "{{% resource_link "5eaa2377-5394-44b6-931d-e7122a96650c" "Bechtel's Power Outage" %}}." _Business 2.0_, March 1, 2004, pp. 80-90.
+King, Ralph, and Charlie McCoy. "[Bechtel's Power Outage](http://money.cnn.com/magazines/business2/business2_archive/2004/03/01/363547/index.htm)." _Business 2.0_, March 1, 2004, pp. 80-90.
 
 Wolff, Derish. "Is Your Firm the Next Enron?" Cambridge, MA: The Louis Berger Group, 2009.
 
